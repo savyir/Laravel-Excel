@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "savyir/excel",
   "description": "Supercharged Excel exports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -19,7 +19,7 @@
   ],
   "require": {
     "php": ">=5.5",
-    "phpoffice/phpexcel": "^1.8.1",
+    "savyir/phpexcel": "^1.8.1",
     "illuminate/cache": "^5.0",
     "illuminate/config": "^5.0",
     "illuminate/filesystem": "^5.0",
