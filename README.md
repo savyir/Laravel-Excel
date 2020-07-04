@@ -1,6 +1,6 @@
-## Laravel Excel v2 for Laravel 5 - fix for php 7.4
-  
+
 # Installation
+Laravel Excel v2 for Laravel 5 - work with php 7.4
 
 Require this package in your `composer.json` and update composer. This will download the package and PHPExcel of PHPOffice.
 
